@@ -1,1 +1,1 @@
-# law-prep-Patna-
+# Responsive code of Law-Prep-Patna
